@@ -14,5 +14,5 @@ train dataset loss
 test dataset loss
 ![](https://github.com/hubeihubei/Hyperspectral-Reconstruction/blob/master/valloss_epoch120.png)
 
-The framework of our IJCAI 18 paper: Selection and Deconstruction Framework
+The framework of our ECCV 2018 paper: Selection and Deconstruction Framework
 ![](https://github.com/hubeihubei/Hyperspectral-Reconstruction/blob/master/image/2.png)
